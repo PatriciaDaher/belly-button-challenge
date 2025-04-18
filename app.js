@@ -73,6 +73,7 @@ function buildCharts(sample) {
     const barLayout = {
       title: "Top 10 Bacteria Cultures Found",
       margin: { t: 30, l: 150 }
+      xaxis: { tickvals: [0, 20, 40, 60, 80, 100, 120, 140, 160] }
     };
 
     Plotly.newPlot("bar", barData, barLayout);
