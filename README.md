@@ -57,6 +57,8 @@ https://patriciadaher.github.io/belly-button-challenge/
 ## Acknowledgements / references
 This project was completed as part of the Data Analytics Bootcamp curriculum. 
 Starter codes and json file was provided by the instructional team.
+Data sorced from:
+Hulcr, J. et al. (2012) A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable. Retrieved from: http://robdunnlab.com/projects/belly-button-biodiversity/results-and-dataLinks to an external site.
 
 ## License
 GNU General Public License.
